@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.workoutapp">
    <application
-        android:label="workoutapp"
+        android:label="Roselia market"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
